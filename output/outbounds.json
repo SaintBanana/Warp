@@ -16,39 +16,6 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "188.114.98.109:1002",
-                        "preSharedKey": "",
-                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
-                    }
-                ],
-                "reserved": [
-                    186,
-                    57,
-                    98
-                ],
-                "secretKey": "MIwQUlItZmMHdkSHDjxgwMVDLjZNzELpLWAYSTwSSFI%3D",
-                "wnoise": "quic",
-                "wnoisecount": "15",
-                "wnoisedelay": "1",
-                "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
-        },
-        {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
-            "protocol": "wireguard",
-            "settings": {
-                "address": [
-                    "172.16.0.2/32"
-                ],
-                "mtu": "1280",
-                "peers": [
-                    {
                         "endpoint": "zula.ir:8886",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
@@ -555,6 +522,39 @@
                     77
                 ],
                 "secretKey": "gPz%2FVlvo70DDlnKHfhf70tl6fJ4sB612NhR0BlwAEVc%3D",
+                "wnoise": "quic",
+                "wnoisecount": "15",
+                "wnoisedelay": "1",
+                "wpayloadsize": "5-10"
+            },
+            "tag": "proxy"
+        },
+        {
+            "mux": {
+                "concurrency": -1,
+                "enabled": false,
+                "xudpConcurrency": 8,
+                "xudpProxyUDP443": ""
+            },
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "188.114.97.251:955",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    199,
+                    181,
+                    10
+                ],
+                "secretKey": "oAZ1plDwQ7jO4kIGBIeWzJef%2By0vUj03FjcUhYNzsXs%3D",
                 "wnoise": "quic",
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
