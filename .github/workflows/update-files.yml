@@ -1,4 +1,4 @@
-name: Update WireGuard Configs
+name: Update Files
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.12'
     
     - name: Install dependencies
       run: |
@@ -28,11 +28,11 @@ jobs:
         pip install -r requirements.txt
     
     - name: Run config fetcher
-      run: python src/fetch_configs.py
+      run: python src/update_files.py
     
     - name: Commit and push if changed
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add configs/wireguard_configs.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update WireGuard configs" && git push)
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "." && git push)
