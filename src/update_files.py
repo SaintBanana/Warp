@@ -152,7 +152,6 @@ def generate_outbound(parsed_config: Dict[str, Any], /):
         "wnoisedelay": params.get("wnoisedelay")[0],
         "wpayloadsize": params.get("wpayloadsize")[0]
     }
-    outbound_dict["tag"] = "proxy"
 
     return outbound_dict
 
