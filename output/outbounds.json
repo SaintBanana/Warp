@@ -2,12 +2,6 @@
     "total": 17,
     "outbounds": [
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -34,12 +28,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -66,12 +54,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -98,12 +80,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -130,12 +106,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -162,12 +132,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -194,12 +158,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -226,12 +184,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -258,12 +210,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -290,12 +236,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -322,12 +262,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -354,12 +288,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -386,12 +314,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -418,12 +340,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -450,12 +366,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -482,12 +392,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
@@ -514,12 +418,6 @@
             }
         },
         {
-            "mux": {
-                "concurrency": -1,
-                "enabled": false,
-                "xudpConcurrency": 8,
-                "xudpProxyUDP443": ""
-            },
             "protocol": "wireguard",
             "settings": {
                 "address": [
