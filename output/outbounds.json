@@ -31,8 +31,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -64,8 +63,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -97,8 +95,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -130,8 +127,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -163,8 +159,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -196,8 +191,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -229,8 +223,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -262,8 +255,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -295,8 +287,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -328,8 +319,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -361,8 +351,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -394,8 +383,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -427,8 +415,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -460,8 +447,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -493,8 +479,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -526,8 +511,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         },
         {
             "mux": {
@@ -559,8 +543,7 @@
                 "wnoisecount": "15",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
-            },
-            "tag": "proxy"
+            }
         }
     ]
 }
