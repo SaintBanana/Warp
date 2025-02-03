@@ -124,14 +124,8 @@ def update_raw_file(configs: List[str], /):
 
 def generate_outbound(parsed_config: Dict[str, Any], /):
     outbound_dict: Dict[str, Any] = dict()
-    outbound_dict["mux"] = {
-        "concurrency": -1,
-        "enabled": False,
-        "xudpConcurrency": 8,
-        "xudpProxyUDP443": ""
-    }
-
     params: Dict[str, Any] = parsed_config.get("params")
+    
     outbound_dict["protocol"] = parsed_config.get("protocol")
     outbound_dict["settings"] = {
         "address": params.get("address"),
