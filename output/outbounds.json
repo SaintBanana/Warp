@@ -452,7 +452,7 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "188.114.97.131:903",
+                        "endpoint": "188.114.97.231:903",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
                     }
