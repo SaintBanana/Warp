@@ -452,7 +452,7 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "188.114.96.249:890",
+                        "endpoint": "188.114.99.140:945",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
                     }
@@ -464,7 +464,7 @@
                 ],
                 "secretKey": "QE0BKzD2Al3OKE3RIURWclDzpr6uW4Xe0n0hcNsL4HU%3D",
                 "wnoise": "quic",
-                "wnoisecount": "15",
+                "wnoisecount": "30",
                 "wnoisedelay": "1",
                 "wpayloadsize": "5-10"
             }
