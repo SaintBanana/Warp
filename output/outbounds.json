@@ -16,32 +16,6 @@
                     }
                 ],
                 "reserved": [
-                    141,
-                    55,
-                    21
-                ],
-                "secretKey": "UPjW7RI2BrrdW1UI3u4Ij1C5Mjd6iUk2NuRXGblRSEM%3D",
-                "wnoise": "quic",
-                "wnoisecount": "5",
-                "wnoisedelay": "5",
-                "wpayloadsize": "40-90"
-            }
-        },
-        {
-            "protocol": "wireguard",
-            "settings": {
-                "address": [
-                    "172.16.0.2/32"
-                ],
-                "mtu": "1280",
-                "peers": [
-                    {
-                        "endpoint": "162.159.192.1:4500",
-                        "preSharedKey": "",
-                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
-                    }
-                ],
-                "reserved": [
                     55,
                     7,
                     0
@@ -359,6 +333,32 @@
                     246
                 ],
                 "secretKey": "mEJxdLlw2nsA1wKH3jQpoGwivl0FaOxetP9BhcF59G8%3D",
+                "wnoise": "quic",
+                "wnoisecount": "5",
+                "wnoisedelay": "5",
+                "wpayloadsize": "40-90"
+            }
+        },
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "162.159.192.1:500",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    93,
+                    133,
+                    180
+                ],
+                "secretKey": "eP3XvJaklmD%2BfFg1M9byX11EmgXbL%2FaV4cJOam1VymY%3D",
                 "wnoise": "quic",
                 "wnoisecount": "5",
                 "wnoisedelay": "5",
