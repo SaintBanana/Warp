@@ -426,7 +426,7 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "162.159.192.1:500",
+                        "endpoint": "162.159.195.1:500",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
                     }
@@ -452,7 +452,7 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "162.159.192.3:4500",
+                        "endpoint": "162.159.195.3:4500",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
                     }
@@ -478,7 +478,7 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "162.159.192.7:500",
+                        "endpoint": "162.159.195.2:500",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
                     }
