@@ -1,5 +1,5 @@
 {
-    "total": 9,
+    "total": 10,
     "outbounds": [
         {
             "protocol": "wireguard",
@@ -229,6 +229,32 @@
                     70
                 ],
                 "secretKey": "kJ7VYhy3irGgXuez20vkdkGt3SY9LxrgKzPg3n2tgWo%3D",
+                "wnoise": "quic",
+                "wnoisecount": "5",
+                "wnoisedelay": "5",
+                "wpayloadsize": "40-90"
+            }
+        },
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "162.159.192.6:2408",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    91,
+                    116,
+                    185
+                ],
+                "secretKey": "8JZDoX%2FC0nIV%2BpTeM3XJgFL3a309JiSnkBs0SkHSBHM%3D",
                 "wnoise": "quic",
                 "wnoisecount": "5",
                 "wnoisedelay": "5",
