@@ -1,32 +1,6 @@
 {
-    "total": 17,
+    "total": 18,
     "outbounds": [
-        {
-            "protocol": "wireguard",
-            "settings": {
-                "address": [
-                    "172.16.0.2/32"
-                ],
-                "mtu": "1280",
-                "peers": [
-                    {
-                        "endpoint": "162.159.192.8:4500",
-                        "preSharedKey": "",
-                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
-                    }
-                ],
-                "reserved": [
-                    215,
-                    185,
-                    26
-                ],
-                "secretKey": "YIHVg0ZuCfD7xzFZPTVtwIO8xFH%2BIo2WdQ58I%2FA%2FuUs%3D",
-                "wnoise": "random",
-                "wnoisecount": "5",
-                "wnoisedelay": "2-5",
-                "wpayloadsize": "5-10"
-            }
-        },
         {
             "protocol": "wireguard",
             "settings": {
@@ -437,6 +411,58 @@
                     137
                 ],
                 "secretKey": "MAu8OAh057UIzoB%2B4F8dmUti3F%2B6IXFWccS9ayXTR0E%3D",
+                "wnoise": "random",
+                "wnoisecount": "5",
+                "wnoisedelay": "2-5",
+                "wpayloadsize": "5-10"
+            }
+        },
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "162.159.195.16:908",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    206,
+                    96,
+                    198
+                ],
+                "secretKey": "0JfdYTd8zdUWotneQdUe%2BDnKDjTAmPx0sxzopBSXtVg%3D",
+                "wnoise": "random",
+                "wnoisecount": "5",
+                "wnoisedelay": "2-5",
+                "wpayloadsize": "5-10"
+            }
+        },
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "162.159.195.13:4500",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    240,
+                    143,
+                    163
+                ],
+                "secretKey": "mHfj2it55DH29%2BJK6CljLXm238nI48u22LOQrogMvkM%3D",
                 "wnoise": "random",
                 "wnoisecount": "5",
                 "wnoisedelay": "2-5",
