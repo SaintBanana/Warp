@@ -16,32 +16,6 @@
                     }
                 ],
                 "reserved": [
-                    53,
-                    40,
-                    180
-                ],
-                "secretKey": "UB9XTBc679mY4VC5NTenAX%2B%2FpkNrMlMF%2BbXbDaNO8EU%3D",
-                "wnoise": "random",
-                "wnoisecount": "5",
-                "wnoisedelay": "2-5",
-                "wpayloadsize": "5-10"
-            }
-        },
-        {
-            "protocol": "wireguard",
-            "settings": {
-                "address": [
-                    "172.16.0.2/32"
-                ],
-                "mtu": "1280",
-                "peers": [
-                    {
-                        "endpoint": "162.159.192.11:2408",
-                        "preSharedKey": "",
-                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
-                    }
-                ],
-                "reserved": [
                     111,
                     176,
                     69
@@ -281,6 +255,32 @@
                     34
                 ],
                 "secretKey": "2DprPW27wQ0T%2FtbaQNlqhjRkeGNIx%2Bg3QZqMbNAVBFo%3D",
+                "wnoise": "random",
+                "wnoisecount": "5",
+                "wnoisedelay": "2-5",
+                "wpayloadsize": "5-10"
+            }
+        },
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "162.159.195.18:500",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    11,
+                    210,
+                    235
+                ],
+                "secretKey": "SDt4RfvHVp%2BNVwzbkNGZV5%2Bx%2F41ZY4EEsswRTFXi614%3D",
                 "wnoise": "random",
                 "wnoisecount": "5",
                 "wnoisedelay": "2-5",
