@@ -10,32 +10,6 @@
                 "mtu": "1280",
                 "peers": [
                     {
-                        "endpoint": "162.159.192.8:942",
-                        "preSharedKey": "",
-                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
-                    }
-                ],
-                "reserved": [
-                    171,
-                    55,
-                    151
-                ],
-                "secretKey": "qDqZgJFCsEEKxal8lZ7K8qeuC%2FRIw%2FOGpP4OzClQxnM%3D",
-                "wnoise": "random",
-                "wnoisecount": "5",
-                "wnoisedelay": "2-5",
-                "wpayloadsize": "5-10"
-            }
-        },
-        {
-            "protocol": "wireguard",
-            "settings": {
-                "address": [
-                    "172.16.0.2/32"
-                ],
-                "mtu": "1280",
-                "peers": [
-                    {
                         "endpoint": "162.159.192.6:2408",
                         "preSharedKey": "",
                         "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
@@ -307,6 +281,32 @@
                     162
                 ],
                 "secretKey": "qLEnDt5SivVTIZ306hhqlIcHXabJ5q2wBSWtGNlUzFc%3D",
+                "wnoise": "random",
+                "wnoisecount": "5",
+                "wnoisedelay": "2-5",
+                "wpayloadsize": "5-10"
+            }
+        },
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32"
+                ],
+                "mtu": "1280",
+                "peers": [
+                    {
+                        "endpoint": "162.159.192.7:2408",
+                        "preSharedKey": "",
+                        "publickey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "reserved": [
+                    131,
+                    117,
+                    122
+                ],
+                "secretKey": "QHpc7qYDyQPNf9a%2FLhNoFsrrsuTpvfND%2F9M%2FrrQALGA%3D",
                 "wnoise": "random",
                 "wnoisecount": "5",
                 "wnoisedelay": "2-5",
